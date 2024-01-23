@@ -1,6 +1,7 @@
 Project: Build Your CV Using HTML
 LESSON PROGRESS
 90% Complete
+![image](https://github.com/Zuribabie/my_first_repo/assets/157492603/c6cf554e-0800-4f96-a16e-8b3bb313a035)
 
 In this project, you are required to build your own CV website using the format above. Replace the images and content with your own information. Don’t be afraid if you struggle and mess a few things up, you’re still learning!
 
